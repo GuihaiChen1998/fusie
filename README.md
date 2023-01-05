@@ -5,7 +5,7 @@ This repo is for our code about an example of the project “fusie”.
 ## Useage
 Following read.md.
 And then we will get something like this:
-
+![训练开启图](https://github.com/GuihaiChen1998/fusie/blob/main/trainingpic.png)
 
 ## Update: 2022.12
 Due to graduation issues, development of the project's API is temporarily suspended.
