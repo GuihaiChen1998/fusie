@@ -6,9 +6,9 @@ This repo is for our code about an example of the project “fusie”.
 Following read.md.
 
 
-### Update: 2022.12
+## Update: 2022.12
 Due to graduation issues, development of the project's API is temporarily suspended.
 
-### Update: 2022.9.1
+## Update: 2022.9.1
 Still, We are now working on making a complete API.
 
