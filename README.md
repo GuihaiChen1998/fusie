@@ -4,7 +4,7 @@ This repo is for our code about an example of the project “fusie”.
 
 ## Useage
 Following read.md.
-----
+
 
 ### Update: 2022.12
 Due to graduation issues, development of the project's API is temporarily suspended.
