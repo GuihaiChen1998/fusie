@@ -1,3 +1,7 @@
 # fusie
-This repo is for our code about the project “fusie”. 
-> Note: Here is not all of our codes. We only put out one of the structural codes of fusie, which includes InteractE (for EP), KGML (for RP), and ConvE (for TC). The full codes will be released after our paper "fusie" is accepted by the conference. Or we would like to open the source code after we have made fusie a complete API (we are now working on making a API about fusie). 
+This repo is for our code about an example of the project “fusie”. 
+> Note: Our framework has not been developed as a complete API, and changing submodels requires manual code changes, except for some components. Anyway, until a full API is developed, frequent code changes make it not easy to use at the moment. Here is an simple example of InteractE-KGML-ConvKB which consists of InteractE (for EP), KGML (for RP), and modified ConvKB (for TC). 
+
+## Update: 2022.9.1
+Still, We are now working on making a complete API.
+
