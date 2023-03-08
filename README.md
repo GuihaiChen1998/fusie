@@ -19,7 +19,7 @@ This repo is for our code about an example of our project/paper.
 Following read.md.
 
 And then we will get something like this:
-![训练开启图](https://github.com/GuihaiChen1998/fusie/blob/main/trainingpic.png)
+![训练开启图](https://github.com/GuihaiChen1998/fusie/blob/main/log.png)
 
 
 
